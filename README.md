@@ -2,7 +2,7 @@
 
 Mostly because I didn't trust others ;)
 
-https://greggman.github.io/html5-gamepad-test/
+https://georgemck.github.io/html5-gamepad-test/
 
 ## Licence: MIT
 
